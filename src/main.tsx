@@ -7,7 +7,7 @@ import { BrowserRouter as Router } from 'react-router-dom'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <Router basename="/Jodn-doe-portfolio">
+    <Router basename="/John-doe-portfolio">
      {/* NextJs Themes  */}
       <ThemeProvider
         attribute="class"
