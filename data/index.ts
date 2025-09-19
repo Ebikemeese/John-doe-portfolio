@@ -44,7 +44,7 @@ export const gridItems = [
     imgClassName: "",
     titleClassName: "justify-start",
     img: "/John-doe-portfolio/grid.svg",
-    spareImg: "/b4.svg",
+    spareImg: "/John-doe-portfolio/b4.svg",
   },
 
   {
